@@ -1,0 +1,17 @@
+*.sw*
+*.settings
+*.settings/*
+*.springBeans
+*/bin
+
+*/classes/
+*/target/
+
+# Eclipse artifacts, including WTP generated manifests
+*.classpath
+*.project
+
+.project
+.classpath
+.class
+.jar
