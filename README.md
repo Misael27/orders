@@ -20,10 +20,6 @@ Edit the **HibernateJPA/src/main/resourcespersistence-mysql.properties** file an
 #### Postman documentation:
 * [documentation] - Postman web, API Doc.
 
-
-#### Postman documentation:
-* [documentation] - Postman web, API Doc.
-
 ### Workflow 
 
 After running the db.sql script and having the app running, You can test the API:
