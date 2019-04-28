@@ -13,7 +13,7 @@
 
 * [diagram] - image png of data model.
 
-**The script db.sql must be run to create the model tables and initialize the available currencies**.
+**The scripts db.sql and currencySeed.sql must be run to create the model tables and initialize the available currencies**.
 
 Edit the **HibernateJPA/src/main/resourcespersistence-mysql.properties** file and place the **user and password** corresponding to the local database there.
 
@@ -36,5 +36,5 @@ After running the db.sql script and having the app running, You can test the API
 In postman are examples of the parameters required by each endpoint and its format.
 
 
- [diagram]: <https://drive.google.com/file/d/1AU8FaPivvhCGuhYxES9esblXC5RQH74a/view?usp=sharing>
- [documentation]: <https://documenter.getpostman.com/view/349031/S1LpZrcP>
+ [Diagram]: <https://drive.google.com/file/d/1AU8FaPivvhCGuhYxES9esblXC5RQH74a/view?usp=sharing>
+ [Documentation]: <https://documenter.getpostman.com/view/349031/S1LpZrcP>
